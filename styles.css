@@ -1,0 +1,28 @@
+h1 {
+    background-color: red;
+    padding: 2px;
+    border: solid white;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 500px;
+    padding: 2px;
+    border: solid white;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    background-color: red;
+    padding: 2px;
+    border: solid white;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
